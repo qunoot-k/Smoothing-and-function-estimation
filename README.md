@@ -1,2 +1,2 @@
 # Smoothing-and-function-estimation
-Practical 3
+Smoothing and function estimation by combining basis expansions and penalized regression
